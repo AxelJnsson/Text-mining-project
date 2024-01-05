@@ -1,0 +1,7 @@
+sentence_transformers
+tqdm
+spacy
+csv
+scipy
+numpy
+torch

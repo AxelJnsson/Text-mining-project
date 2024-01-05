@@ -1,0 +1,5 @@
+# LLM
+fine_tuned_swedish_bert/
+
+# Jupyter Notebook
+.ipynb_checkpoints
